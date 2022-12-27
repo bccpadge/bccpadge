@@ -1,6 +1,4 @@
-
-
-
+![banner](header.png)
 <h3 align="center">Aspiring frontend developer from Virginia</h3>
 
 - 🔭 I’m currently working on [Frontend Mentor projects](https://www.frontendmentor.io/profile/bccpadge)
