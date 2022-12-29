@@ -1,4 +1,4 @@
-![banner](header.png)
+<h1 align="left">Hi, 👋🏼I'm Rebecca aka Becca</h1>
 <h2 align="center">Aspiring frontend developer from Virginia</h2>
 
 <h3 align="left">Little Bit About Myself:</h3>
