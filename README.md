@@ -5,14 +5,14 @@
 <p>I have an older brother, named Matthew. He and I were born and adopted from Vietnam. I have hemiparesis cerebral palsy on my right side.  </p>
 
 <h3 align="left">How I got Started in Web Development?</h3>
-<p>I started learning about web development after not been satified doing accounting certificate. I had no frontend experience until I watched YouTube tutorials on building responsive websites using HTML, CSS, and JavaScript. The only way to improve is building projects. I am fan of philosophy called Stoicism. The quote below is great reminder for everyone that working on things one day at a time. </p>
+<p>I started learning about web development after not been satified doing accounting certificate. I had no frontend experience until I watched YouTube tutorials on building responsive websites using HTML, CSS, and JavaScript. I am huge advocate on project-based learning appproach and the only way to improve is building projects. I am fan of philosophy called Stoicism. The quote below is great reminder for everyone that working on things one day at a time. </p>
 
 <h3 align="left">Stoic quote ⏬</h3>
 <p>“Progress is not achieved by luck or accident, but by working on yourself daily.” - Epictetus</p>
 
 -  📚 I will graduate this upcoming Spring 2023 semester at Brightpoint Community College with a Computer Programming certificate. 
 
-- 🔭 I’m currently working on [Frontend Mentor projects](https://www.frontendmentor.io/profile/bccpadge) and other  projects on Youtube as well. 
+- 🔭 I’m currently working on [Projectlearn.io](https://projectlearn.io/]) projects and providing feedback on [Frontend Mentor](https://www.frontendmentor.io/profile/bccpadge). 
 
 - 🌱 I’m currently learning **HTML, CSS, and JavaScript.**
 
