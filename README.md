@@ -12,7 +12,7 @@
 
 -  📚 I will graduate this upcoming Spring 2023 semester at Brightpoint Community College with a Computer Programming certificate. 
 
-- 🔭 I’m currently working on [Projectlearn.io](https://projectlearn.io/]) projects and providing feedback on [Frontend Mentor](https://www.frontendmentor.io/profile/bccpadge). 
+- 🔭 I’m currently working on [Projectlearn.io](https://projectlearn.io/#categories) projects and providing feedback on [Frontend Mentor](https://www.frontendmentor.io/profile/bccpadge). 
 
 - 🌱 I’m currently learning **HTML, CSS, and JavaScript.**
 
