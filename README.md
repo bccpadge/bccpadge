@@ -24,5 +24,7 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><p/p>
 
-  ![Becca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bccpadge&show_icons=true&theme=radical)
+
+![Becca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bccpadge&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bccpadge&layout=compact&show_icons=true&theme=radical)](https://github.com/bccpadge/github-readme-stats)
+
