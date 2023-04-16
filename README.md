@@ -10,9 +10,7 @@
 <h3 align="left">Stoic quote ⏬</h3>
 <p>“Progress is not achieved by luck or accident, but by working on yourself daily.” - Epictetus</p>
 
--  📚 I will graduate this upcoming Spring 2023 semester at Brightpoint Community College with a Computer Programming certificate. 
-
-- 🌱 I’m currently learning **HTML, CSS, and JavaScript.**
+- 🌱 I’m currently learning **JavaScript and Tailwind CSS.**
 
 - ⚡ Fun fact **I watch way too many Hallmark movies. 🍿**
 
