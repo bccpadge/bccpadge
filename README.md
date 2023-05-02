@@ -12,14 +12,19 @@
 
 - 🌱 I’m currently learning **JavaScript and Tailwind CSS.**
 
-- ⚡ Fun fact **I watch way too many Hallmark movies. 🍿**
+- ⚡ Fun fact **I enjoy listening to music. 🎧**
 
-<h3 align="left"> 🛠 Languages and Tools I use ⏬</h3>
-<p align="left"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><p/p>  
+| Front-end     | IDE       |
+| ----------- | ----------- |
+| <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><p> 
+|  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> |  
+| <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> |
+| <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcssColor=white"> |
 
-![Becca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bccpadge&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bccpadge&layout=compact&show_icons=true&theme=radical)](https://github.com/bccpadge/github-readme-stats)
+| Github Stats   | Most Used Languages|
+| ----------- | ----------- |
+| ![Becca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bccpadge&show_icons=true&theme=radical)   |    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bccpadge&layout=compact&show_icons=true&theme=radical)](https://github.com/bccpadge/github-readme-stats)    |
+  
+
+
 
