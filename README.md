@@ -31,7 +31,7 @@
 
 
 
-| Github Stats   | Most Used Languages|
+| GitHub Stats   | Most Used Languages|
 | ----------- | ----------- |
 | ![Becca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bccpadge&show_icons=true&theme=radical)   |    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bccpadge&layout=compact&show_icons=true&theme=radical)](https://github.com/bccpadge/github-readme-stats)    |
   
