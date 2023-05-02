@@ -10,7 +10,8 @@
 <h3 align="left">Stoic quote ⏬</h3>
 <p>“Progress is not achieved by luck or accident, but by working on yourself daily.” - Epictetus</p>
 
-- 🌱 I’m currently learning **JavaScript and Tailwind CSS.**
+- 🌱 I’m currently learning **JavaScript and Tailwind CSS**
+-  Also, reviewing **HTML and CSS**
 
 - ⚡ Fun fact **I enjoy listening to music. 🎧**
 
