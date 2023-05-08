@@ -15,28 +15,28 @@
 
 - ⚡ Fun fact **I enjoy listening to music. 🎧**
 
-<table>
-  <th>Front-end</th>
+<h3>Front-end</h3>
   <p align="left">
    <td> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> </td>
-  <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </td>
-  <td><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> </td>
-  <td><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> </td>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
   </p>
- 
-</table>
-<table>
-  <th>IDE</th>
-  <td>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></td>
-</table>
- 
+ <h3>IDE</h3>
+  <p align = "left">
+      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  </p>
+  
+ <h4>OS</h4>
+    <p align = "left">
+    <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=Windows%2010%20code&logoColor=blue">
+  </p>
 
 
 
 | GitHub Stats   | Most Used Languages|
 | ----------- | ----------- |
-| ![Becca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bccpadge&show_icons=true&theme=dracula)   |    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bccpadge&layout=compact&show_icons=true&theme=dracula)](https://github.com/bccpadge/github-readme-stats)    |
+| ![Becca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bccpadge&show_icons=true&theme=radical)   |    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bccpadge&layout=compact&show_icons=true&theme=radical)](https://github.com/bccpadge/github-readme-stats)    |
   
 
 
