@@ -1,5 +1,5 @@
 ![banner](header.png)
-<h2 align="center">Aspiring frontend developer from Virginia</h2>
+
 
 <h3 align="left">Little Bit About Myself:</h3>
 <p>I have an older brother, named Matthew. He and I were born and adopted from Vietnam. I have hemiparesis cerebral palsy on my right side.  </p>
