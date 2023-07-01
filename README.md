@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
    <img src="https://img.shields.io/badge/SaSS-bf4080?style=for-the-badge&logo=sass&logoColor=white">
+   <img src="https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=white">
+   <img src="https://img.shields.io/badge/GithubDesktop-8a3eaa?style=for-the-badge&logo=github&logoColor=white">
   </p>
  <h3>IDE</h3>
   <p align = "left">
