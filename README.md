@@ -2,22 +2,10 @@
 
 
 <h3 align="left">Little Bit About Myself:</h3>
-<p>I have an older brother, named Matthew. He and I were born and adopted from Vietnam. I have hemiparesis cerebral palsy on my right side.  </p>
+<p>I have an older brother, named Matthew. He and I were born and adopted from Vietnam. I have hemiparesis cerebral palsy on my right side. I enjoy coding and listening to music.  </p>
 
-<h3 align="left">How I got Started in Web Development?</h3>
-<p>I started learning about web development after not been satified doing accounting certificate. I had no frontend experience until I watched YouTube tutorials on building responsive websites using HTML, CSS, and JavaScript. I am huge advocate on project-based learning appproach and the only way to improve is building projects. I am fan of philosophy called Stoicism. The quote below is great reminder for everyone that working on things one day at a time. </p>
-
-<h3 align="left">Stoic quote ⏬</h3>
+<h2 align="left">Stoic quote ⏬</h2>
 <p>“Progress is not achieved by luck or accident, but by working on yourself daily.” - Epictetus</p>
-
-<h3>Things changed and that's okay</h3>
-<p>I got a job as an Instructional Assistant (Special Education) and my feelings have changed about being a developer.  </p>
-
-
-
-- I'm currently building projects on [Frontend Mentor](https://www.frontendmentor.io/profile/bccpadge) and working through [freecodecamp](https://www.freecodecamp.org/bccpadge) Responsive Web Design Certification.
-
-- ⚡ Fun fact **I enjoy listening to music. 🎧**
 
 <h3>Front-end</h3>
   <p align="left">
