@@ -8,7 +8,7 @@
 <p>I was unpleased doing an accounting certificate at Brightpoint Community College. I decided to swtich to an Computer Programing, CSC and that is how I found my interest in web development. I would watch YouTube tutorials on web development. When I started doing frontend development, I wanted to be frontend developer. But time as passed, I changed my mind. I enjoy coding as a hobby. </p>
 
 <h3 align="left">Currently doing:</h3>
-<p>I am building projects on Frontend Mentor. Check out my projects here [Frontend Mentor](https://www.frontendmentor.io/profile/bccpadge)</p>
+<p>I am building projects on Frontend Mentor. </p>
 
 <h2 align="left">Stoic quote ⏬</h2>
 <p>“Progress is not achieved by luck or accident, but by working on yourself daily.” - Epictetus</p>
