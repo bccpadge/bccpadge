@@ -2,7 +2,13 @@
 
 
 <h3 align="left">Little Bit About Myself:</h3>
-<p>I have an older brother, named Matthew. He and I were born and adopted from Vietnam. I have hemiparesis cerebral palsy on my right side. I enjoy coding and listening to music.  </p>
+<p>I have an older brother, named Matthew. He and I were born and adopted from Vietnam. I have hemiparesis cerebral palsy on my right side.  </p>
+
+<h3 align="left">How I got started in Web Development?</h3>
+<p>I was unpleased doing an accounting certificate at Brightpoint Community College. I decided to swtich to an Computer Programing, CSC and that is how I found my interest in web development. I would watch YouTube tutorials on web development. When I started doing frontend development, I wanted to be frontend developer. But time as passed, I changed my mind. I enjoy coding as a hobby. </p>
+
+<h3 align="left">Currently doing:</h3>
+<p>I am building projects on Frontend Mentor. Check out my projects here [Frontend Mentor](https://www.frontendmentor.io/profile/bccpadge)</p>
 
 <h2 align="left">Stoic quote ⏬</h2>
 <p>“Progress is not achieved by luck or accident, but by working on yourself daily.” - Epictetus</p>
