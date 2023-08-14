@@ -1,5 +1,4 @@
-![banner](header.png)
-
+<h1 align="center">Hi 👋🏼, I'm Rebecca "Becca" Padgett 🌻 </h1>
 
 <h3 align="left">Little Bit About Myself:</h3>
 <p>I have an older brother, named Matthew. He and I were born and adopted from Vietnam. I have hemiparesis cerebral palsy on my right side.  </p>
@@ -7,11 +6,19 @@
 <h3 align="left">How I got started in Web Development?</h3>
 <p>I was unpleased doing an accounting certificate at Brightpoint Community College. I decided to swtich to an Computer Programing, CSC and that is how I found my interest in web development. I would watch YouTube tutorials on web development. When I started doing frontend development, I wanted to be frontend developer. But time as passed, I changed my mind. I enjoy coding as a hobby. </p>
 
-<h3 align="left">Currently doing:</h3>
+<h2 align="left">Currently doing:</h2>
 <p>I am building projects on Frontend Mentor. </p>
 
 <h2 align="left">Stoic quote ⏬</h2>
 <p>“Progress is not achieved by luck or accident, but by working on yourself daily.” - Epictetus</p>
+
+<h2>When I'm not doing Web development I enjoy:</h2>
+<ul>
+  <li>Listening to music 🎶</li>
+  <li>Playing and watching golf ⛳</li>
+  <li>Watching any documentaries on PBS </li>
+</ul>
+
 
 <h3>Front-end</h3>
   <p align="left">
