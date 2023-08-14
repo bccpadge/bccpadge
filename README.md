@@ -4,7 +4,7 @@
 <p>I have an older brother, named Matthew. He and I were born and adopted from Vietnam. I have hemiparesis cerebral palsy on my right side.  </p>
 
 <h3 align="left">How I got started in Web Development?</h3>
-<p>I was unpleased doing an accounting certificate at Brightpoint Community College. I decided to swtich to an Computer Programing, CSC and that is how I found my interest in web development. I would watch YouTube tutorials on web development. When I started doing frontend development, I wanted to be frontend developer. But time as passed, I changed my mind. I enjoy coding as a hobby. </p>
+<p>I was unpleased doing an accounting certificate at Brightpoint Community College. I decided to swtich to an Computer Programing, CSC and that is how I found my interest in web development and graduated in May 2023. I would watch YouTube tutorials on web development and still do. When I started doing frontend development, I wanted to be frontend developer. But time as passed, I changed my mind. I enjoy coding as a hobby. </p>
 
 <h2 align="left">Currently doing:</h2>
 <p>I am building projects on Frontend Mentor. </p>
@@ -16,7 +16,7 @@
 <ul>
   <li>Listening to music 🎶</li>
   <li>Playing and watching golf ⛳</li>
-  <li>Watching any documentaries on PBS </li>
+  <li>Watching any documentaries or TV Series on PBS </li>
 </ul>
 
 
