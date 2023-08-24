@@ -7,8 +7,11 @@
 <p>I was unpleased doing an accounting certificate at Brightpoint Community College. I decided to swtich to an Computer Programing, CSC and that is how I found my interest in web development and graduated in May 2023. I would watch YouTube tutorials on web development and still do. When I started doing frontend development, I wanted to be frontend developer. But time as passed, I changed my mind. I enjoy coding as a hobby. </p>
 
 <h2 align="left">Currently doing:</h2>
-<p>I am building projects on Frontend Mentor. </p>
+<p>I am building projects and providing feedback on Frontend Mentor.</p>
 
+<a href="https://www.frontendmentor.io/profile/bccpadge">
+<img align=""left src="https://img.shields.io/badge/FrontendMentor-333?style=for-the-badge&logo=frontendmentor&logoColor=white"> 
+</a>
 <h2 align="left">Stoic quote ⏬</h2>
 <p>“Progress is not achieved by luck or accident, but by working on yourself daily.” - Epictetus</p>
 
