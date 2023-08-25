@@ -15,6 +15,21 @@
 <h2 align="left">Stoic quote ⏬</h2>
 <p>“Progress is not achieved by luck or accident, but by working on yourself daily.” - Epictetus</p>
 
+<h2 align="left">One of my favorite quotes: ⏬</h2>
+<p>
+“Be content with what you have;
+rejoice in the way things are.
+When you realize there is nothing lacking,
+the whole world belongs to you.”
+  - Lao Tzu
+</p>
+
+<h2 align="left">One of my favorite poems: ⏬</h2>
+<a href="https://www.youtube.com/watch?v=CaVaF6TkSUU&pp=ygUfcmVkIGZyb3N0IG1vdGl2YXRpb24gZGVzaWRlcmF0YQ%3D%3D">
+Desiderata
+Poem by Max Ehrmann
+</a>
+
 <h2>When I'm not doing Web development I enjoy:</h2>
 <ul>
   <li>Listening to music 🎶</li>
