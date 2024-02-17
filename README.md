@@ -30,6 +30,15 @@ I was unpleased doing an accounting certificate at Brightpoint Community College
 
 <details open>
   <summary>
+    <h2>Programming languages:</h2>
+       <p align = "left">
+      <img src="https://img.shields.io/badge/Python-0078D4?style=for-the-badge&logo=pythone&logoColor=white">
+  </p>
+  </summary>
+</details>
+
+<details open>
+  <summary>
     <h2>IDE</h2>
   </summary>
     <p align = "left">
