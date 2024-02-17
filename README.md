@@ -32,7 +32,7 @@ I was unpleased doing an accounting certificate at Brightpoint Community College
   <summary>
     <h2>Programming languages:</h2>
        <p align = "left">
-      <img src="https://img.shields.io/badge/Python-0078D4?style=for-the-badge&logo=pythone&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-0078D4?style=for-the-badge&logo=Python&logoColor=white">
   </p>
   </summary>
 </details>
