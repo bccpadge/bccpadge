@@ -1,14 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rebecca "Becca" Padgett  🌻
 ===============================================================================================================================================
 
-Golf and music enthusiast
--------------------------
-
-I was unpleased doing an accounting certificate at Brightpoint Community College. I decided to swtich to an Computer Programing, CSC and that is how I found my interest in web development and graduated in May 2023. I would watch YouTube tutorials on web development and still do. When I started doing frontend development, I wanted to be frontend developer. But time as passed, I changed my mind. I enjoy coding as a hobby.
+A passionate developer who loves writing accessible code. I specialize in web development exploring new technologies and frameworks.
 
 *   🌍  I'm based in Chesterfield, Virginia
 *   ✉️  You can contact me at [bccpadge@gmail.com](mailto:bccpadge@gmail.com)
-*   🚀  I'm currently working on [Frontend Mentor challenges](http://www.frontendmentor.io/profile/bccpadge)
+*   🚀  I'm currently working on [Frontend Mentor challenges](http://www.frontendmentor.io/profile/bccpadge) and [WebDevDaily challenges](https://www.webdevdaily.io/challenges/all)
 *   🤝  I'm open to collaborating on projects
 *   ⚡  I enjoy listening to folk music and my favorite artist is Tracy Chapman.
 
