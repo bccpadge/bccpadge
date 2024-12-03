@@ -55,7 +55,7 @@ A passionate developer who loves writing accessible code. I specialize in web de
  <details>
   <summary>Github Status</summary>
    <p align="left">
-     <img src="https://github-readme-stats.vercel.app/api?username=bccpadge&show_icons=true&theme=radical">
+     <img src="https://github-readme-stats.vercel.app/api?username=bccpadge&theme=blueberry&show_icons=true&hide_border=true&count_private=true">
    </p>
 </details> 
 
@@ -63,7 +63,7 @@ A passionate developer who loves writing accessible code. I specialize in web de
  <details>
   <summary>Most Used Languages</summary>
    <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bccpadge&layout=compact&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bccpadge&theme=blueberry&show_icons=true&hide_border=true&layout=compact">
    </p>
   
    </details> 
