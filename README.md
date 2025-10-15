@@ -9,8 +9,8 @@ I'm a Snack Shop Employee who enjoys writing accessible code.
 
 
 ## Tech Stack
--  ⚒ I use `HTML5`, `CSS3`, `SASS/SCSS`, `TailwindCSS`, `JavaScript`, `React`, and `Python`.
+-  ⚒ I use `HTML5`, `CSS3`, `SASS/SCSS`, `TailwindCSS`, `JavaScript`, `React`, `Astro` and `Python`.
 
 ## GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bccpadge&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bccpadge&show_icons=true&theme=radical)
 
