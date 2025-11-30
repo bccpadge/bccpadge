@@ -7,11 +7,19 @@ I'm passionate about building accessible, user-friendly frontend experiences.
 💡 Dedicated to creating inclusive digital experiences for everyone.  
 ✨ Let's connect on [LinkedIn](https://www.linkedin.com/in/becca-padgett)!
 
-## Tech Stack
-⚒ `HTML5` · `CSS3` · `SASS/SCSS` · `TailwindCSS` · `JavaScript` · `React` · `Astro` · `Python`
+## Technologies 
+- `HTML5`
+-  `CSS3`
+- `SASS/SCSS`
+- `TailwindCSS`
+- `JavaScript`
+- `React`
+- `Astro` 
+
+
 
 ## When I'm Not Coding
-- 🎶 Music
--  🏌️ Golf
+- 🎶 Listening to music
+-  🏌️ Playing golf
 - 📚 Reading
 -  🎨 Creative hobbies
